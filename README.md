@@ -30,7 +30,6 @@ The model is compiled using the **Adam optimizer** and the **Mean Squared Error 
 
 The model's performance can be evaluated using a separate test set. Common metrics to consider include MSE, RMSE (Root Mean Squared Error), and MAE (Mean Absolute Error).
 
-![Stock Price Prediction](/Stock Prediction.png)
 <img src="/Stock Prediction.png" alt="Stock Price Prediction" width="500" align="center">
 
 
